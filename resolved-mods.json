@@ -1,0 +1,1418 @@
+[
+  {
+    "fileID": 5623547,
+    "slug": "netherportalfix",
+    "filename": "netherportalfix.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5623/547/netherportalfix.jar"
+  },
+  {
+    "fileID": 6382651,
+    "slug": "sodium",
+    "filename": "sodium.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6382/651/sodium.jar"
+  },
+  {
+    "fileID": 8036048,
+    "slug": "create-optical",
+    "filename": "create-optical.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8036/048/create-optical.jar"
+  },
+  {
+    "fileID": 8117841,
+    "slug": "craterlib",
+    "filename": "craterlib.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8117/841/craterlib.jar"
+  },
+  {
+    "fileID": 6353949,
+    "slug": "cherished-worlds",
+    "filename": "cherished-worlds.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6353/949/cherished-worlds.jar"
+  },
+  {
+    "fileID": 5733955,
+    "slug": "easy-anvils",
+    "filename": "easy-anvils.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5733/955/easy-anvils.jar"
+  },
+  {
+    "fileID": 7918038,
+    "slug": "create-totem-factory",
+    "filename": "create-totem-factory.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7918/038/create-totem-factory.jar"
+  },
+  {
+    "fileID": 7367221,
+    "slug": "connectivity",
+    "filename": "connectivity.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7367/221/connectivity.jar"
+  },
+  {
+    "fileID": 7419660,
+    "slug": "create-cafe",
+    "filename": "create-cafe.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7419/660/create-cafe.jar"
+  },
+  {
+    "fileID": 8054109,
+    "slug": "create-train-parts",
+    "filename": "create-train-parts.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8054/109/create-train-parts.jar"
+  },
+  {
+    "fileID": 7802495,
+    "slug": "integrated-stronghold",
+    "filename": "integrated-stronghold.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7802/495/integrated-stronghold.jar"
+  },
+  {
+    "fileID": 7707149,
+    "slug": "geckolib",
+    "filename": "geckolib.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7707/149/geckolib.jar"
+  },
+  {
+    "fileID": 8225254,
+    "slug": "e4mc",
+    "filename": "e4mc.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8225/254/e4mc.jar"
+  },
+  {
+    "fileID": 6368976,
+    "slug": "controlling",
+    "filename": "controlling.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6368/976/controlling.jar"
+  },
+  {
+    "fileID": 6060028,
+    "slug": "configured-defaults",
+    "filename": "configured-defaults.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6060/028/configured-defaults.jar"
+  },
+  {
+    "fileID": 8156977,
+    "slug": "create-design-n-decor",
+    "filename": "create-design-n-decor.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8156/977/create-design-n-decor.jar"
+  },
+  {
+    "fileID": 8226923,
+    "slug": "ftb-library-forge",
+    "filename": "ftb-library-forge.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8226/923/ftb-library-forge.jar"
+  },
+  {
+    "fileID": 8106248,
+    "slug": "create-rubberworks",
+    "filename": "create-rubberworks.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8106/248/create-rubberworks.jar"
+  },
+  {
+    "fileID": 7449378,
+    "slug": "gears-n-kinetics",
+    "filename": "gears-n-kinetics.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7449/378/gears-n-kinetics.jar"
+  },
+  {
+    "fileID": 7596612,
+    "slug": "create-chocolate-fountain-zh-hk-translation",
+    "filename": "create-chocolate-fountain-zh-hk-translation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7596/612/create-chocolate-fountain-zh-hk-translation.jar"
+  },
+  {
+    "fileID": 6299879,
+    "slug": "bellsandwhistles",
+    "filename": "bellsandwhistles.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6299/879/bellsandwhistles.jar"
+  },
+  {
+    "fileID": 7586038,
+    "slug": "create-create-dreams-n-desires-no-diamond-recipe",
+    "filename": "create-create-dreams-n-desires-no-diamond-recipe.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7586/038/create-create-dreams-n-desires-no-diamond-recipe.jar"
+  },
+  {
+    "fileID": 8138627,
+    "slug": "justenoughbreeding",
+    "filename": "justenoughbreeding.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8138/627/justenoughbreeding.jar"
+  },
+  {
+    "fileID": 8177588,
+    "slug": "euphoria-patches",
+    "filename": "euphoria-patches.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8177/588/euphoria-patches.jar"
+  },
+  {
+    "fileID": 8207248,
+    "slug": "hypertubes",
+    "filename": "hypertubes.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8207/248/hypertubes.jar"
+  },
+  {
+    "fileID": 8032784,
+    "slug": "drippy-loading-screen",
+    "filename": "drippy-loading-screen.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8032/784/drippy-loading-screen.jar"
+  },
+  {
+    "fileID": 5380486,
+    "slug": "create-style-hopper",
+    "filename": "create-style-hopper.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5380/486/create-style-hopper.jar"
+  },
+  {
+    "fileID": 8175347,
+    "slug": "create-railways-navigator",
+    "filename": "create-railways-navigator.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8175/347/create-railways-navigator.jar"
+  },
+  {
+    "fileID": 7878281,
+    "slug": "ftb-teams-forge",
+    "filename": "ftb-teams-forge.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7878/281/ftb-teams-forge.jar"
+  },
+  {
+    "fileID": 7596632,
+    "slug": "create-slice-dice-zh-hk-translation",
+    "filename": "create-slice-dice-zh-hk-translation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7596/632/create-slice-dice-zh-hk-translation.jar"
+  },
+  {
+    "fileID": 7404415,
+    "slug": "better-compatibility-checker",
+    "filename": "better-compatibility-checker.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7404/415/better-compatibility-checker.jar"
+  },
+  {
+    "fileID": 7658611,
+    "slug": "forgified-fabric-api",
+    "filename": "forgified-fabric-api.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7658/611/forgified-fabric-api.jar"
+  },
+  {
+    "fileID": 7730942,
+    "slug": "patchouli",
+    "filename": "patchouli.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7730/942/patchouli.jar"
+  },
+  {
+    "fileID": 8147235,
+    "slug": "create-schematicchecker",
+    "filename": "create-schematicchecker.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8147/235/create-schematicchecker.jar"
+  },
+  {
+    "fileID": 7350975,
+    "slug": "industrialized-architecture",
+    "filename": "industrialized-architecture.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7350/975/industrialized-architecture.jar"
+  },
+  {
+    "fileID": 5591015,
+    "slug": "item-highlighter",
+    "filename": "item-highlighter.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5591/015/item-highlighter.jar"
+  },
+  {
+    "fileID": 7568054,
+    "slug": "create-immersive-aircrafts-resource-pack",
+    "filename": "create-immersive-aircrafts-resource-pack.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7568/054/create-immersive-aircrafts-resource-pack.jar"
+  },
+  {
+    "fileID": 7552615,
+    "slug": "create-wrapped",
+    "filename": "create-wrapped.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7552/615/create-wrapped.jar"
+  },
+  {
+    "fileID": 6059206,
+    "slug": "boat-item-view-forge",
+    "filename": "boat-item-view-forge.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6059/206/boat-item-view-forge.jar"
+  },
+  {
+    "fileID": 7585727,
+    "slug": "create-charcoal-bulk-haunting",
+    "filename": "create-charcoal-bulk-haunting.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7585/727/create-charcoal-bulk-haunting.jar"
+  },
+  {
+    "fileID": 6850945,
+    "slug": "create-wrencheable-planes",
+    "filename": "create-wrencheable-planes.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6850/945/create-wrencheable-planes.jar"
+  },
+  {
+    "fileID": 8048724,
+    "slug": "personality",
+    "filename": "personality.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8048/724/personality.jar"
+  },
+  {
+    "fileID": 7537795,
+    "slug": "immediatelyfast",
+    "filename": "immediatelyfast.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7537/795/immediatelyfast.jar"
+  },
+  {
+    "fileID": 6794589,
+    "slug": "polymorph",
+    "filename": "polymorph.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6794/589/polymorph.jar"
+  },
+  {
+    "fileID": 8083481,
+    "slug": "farmers-delight",
+    "filename": "farmers-delight.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8083/481/farmers-delight.jar"
+  },
+  {
+    "fileID": 7634148,
+    "slug": "sinytra-connector",
+    "filename": "sinytra-connector.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7634/148/sinytra-connector.jar"
+  },
+  {
+    "fileID": 6529130,
+    "slug": "curios",
+    "filename": "curios.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6529/130/curios.jar"
+  },
+  {
+    "fileID": 7537707,
+    "slug": "create-easy-stone-generators-no-obsidian-gen",
+    "filename": "create-easy-stone-generators-no-obsidian-gen.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7537/707/create-easy-stone-generators-no-obsidian-gen.jar"
+  },
+  {
+    "fileID": 5136836,
+    "slug": "tradingpostzhhktranslation",
+    "filename": "tradingpostzhhktranslation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5136/836/tradingpostzhhktranslation.jar"
+  },
+  {
+    "fileID": 8215216,
+    "slug": "create-new-age",
+    "filename": "create-new-age.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8215/216/create-new-age.jar"
+  },
+  {
+    "fileID": 8210988,
+    "slug": "collective",
+    "filename": "collective.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8210/988/collective.jar"
+  },
+  {
+    "fileID": 7958165,
+    "slug": "create-tweaked-controllers",
+    "filename": "create-tweaked-controllers.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7958/165/create-tweaked-controllers.jar"
+  },
+  {
+    "fileID": 7575506,
+    "slug": "create-garnished-reworked",
+    "filename": "create-garnished-reworked.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7575/506/create-garnished-reworked.jar"
+  },
+  {
+    "fileID": 6330030,
+    "slug": "handcrafted",
+    "filename": "handcrafted.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6330/030/handcrafted.jar"
+  },
+  {
+    "fileID": 8221844,
+    "slug": "create-central-kitchen",
+    "filename": "create-central-kitchen.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8221/844/create-central-kitchen.jar"
+  },
+  {
+    "fileID": 6296628,
+    "slug": "smooth-chunk-save",
+    "filename": "smooth-chunk-save.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6296/628/smooth-chunk-save.jar"
+  },
+  {
+    "fileID": 8123287,
+    "slug": "create-quests",
+    "filename": "create-quests.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8123/287/create-quests.jar"
+  },
+  {
+    "fileID": 5180585,
+    "slug": "server-browser",
+    "filename": "server-browser.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5180/585/server-browser.jar"
+  },
+  {
+    "fileID": 6928401,
+    "slug": "melody",
+    "filename": "melody.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6928/401/melody.jar"
+  },
+  {
+    "fileID": 5453382,
+    "slug": "puzzles-lib",
+    "filename": "puzzles-lib.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5453/382/puzzles-lib.jar"
+  },
+  {
+    "fileID": 8168234,
+    "slug": "integrated-api",
+    "filename": "integrated-api.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8168/234/integrated-api.jar"
+  },
+  {
+    "fileID": 7921681,
+    "slug": "trading-post",
+    "filename": "trading-post.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7921/681/trading-post.jar"
+  },
+  {
+    "fileID": 7143451,
+    "slug": "irisshaders",
+    "filename": "irisshaders.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7143/451/irisshaders.jar"
+  },
+  {
+    "fileID": 6661598,
+    "slug": "create-blocks-bogies",
+    "filename": "create-blocks-bogies.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6661/598/create-blocks-bogies.jar"
+  },
+  {
+    "fileID": 7471348,
+    "slug": "appleskin",
+    "filename": "appleskin.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7471/348/appleskin.jar"
+  },
+  {
+    "fileID": 7854442,
+    "slug": "createquestingunofficialzhhktranslation",
+    "filename": "createquestingunofficialzhhktranslation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7854/442/createquestingunofficialzhhktranslation.jar"
+  },
+  {
+    "fileID": 5136820,
+    "slug": "chat-heads",
+    "filename": "chat-heads.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5136/820/chat-heads.jar"
+  },
+  {
+    "fileID": 7875229,
+    "slug": "cut-through",
+    "filename": "cut-through.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7875/229/cut-through.jar"
+  },
+  {
+    "fileID": 5731913,
+    "slug": "does-it-tick",
+    "filename": "does-it-tick.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5731/913/does-it-tick.jar"
+  },
+  {
+    "fileID": 6353650,
+    "slug": "amendments",
+    "filename": "amendments.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6353/650/amendments.jar"
+  },
+  {
+    "fileID": 7461027,
+    "slug": "continuity",
+    "filename": "continuity.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7461/027/continuity.jar"
+  },
+  {
+    "fileID": 5981335,
+    "slug": "create-diesel-generators",
+    "filename": "create-diesel-generators.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5981/335/create-diesel-generators.jar"
+  },
+  {
+    "fileID": 8195615,
+    "slug": "c-u-3d-wrench-model",
+    "filename": "c-u-3d-wrench-model.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8195/615/c-u-3d-wrench-model.jar"
+  },
+  {
+    "fileID": 4765635,
+    "slug": "create-integrated-farming",
+    "filename": "create-integrated-farming.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/4765/635/create-integrated-farming.jar"
+  },
+  {
+    "fileID": 8225206,
+    "slug": "create-better-fps",
+    "filename": "create-better-fps.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8225/206/create-better-fps.jar"
+  },
+  {
+    "fileID": 7951368,
+    "slug": "ftb-filter-system",
+    "filename": "ftb-filter-system.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7951/368/ftb-filter-system.jar"
+  },
+  {
+    "fileID": 7429011,
+    "slug": "prickle",
+    "filename": "prickle.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7429/011/prickle.jar"
+  },
+  {
+    "fileID": 6961457,
+    "slug": "corpse",
+    "filename": "corpse.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6961/457/corpse.jar"
+  },
+  {
+    "fileID": 7018307,
+    "slug": "easy-magic",
+    "filename": "easy-magic.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7018/307/easy-magic.jar"
+  },
+  {
+    "fileID": 7151100,
+    "slug": "create-transmission",
+    "filename": "create-transmission.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7151/100/create-transmission.jar"
+  },
+  {
+    "fileID": 8186085,
+    "slug": "create-fantasizing-again",
+    "filename": "create-fantasizing-again.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8186/085/create-fantasizing-again.jar"
+  },
+  {
+    "fileID": 8036095,
+    "slug": "idas",
+    "filename": "idas.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8036/095/idas.jar"
+  },
+  {
+    "fileID": 8232359,
+    "slug": "no-chat-reports",
+    "filename": "no-chat-reports.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8232/359/no-chat-reports.jar"
+  },
+  {
+    "fileID": 5885735,
+    "slug": "create-encased",
+    "filename": "create-encased.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5885/735/create-encased.jar"
+  },
+  {
+    "fileID": 8132852,
+    "slug": "leaves-be-gone",
+    "filename": "leaves-be-gone.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8132/852/leaves-be-gone.jar"
+  },
+  {
+    "fileID": 8036398,
+    "slug": "enchantment-descriptions",
+    "filename": "enchantment-descriptions.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8036/398/enchantment-descriptions.jar"
+  },
+  {
+    "fileID": 8240827,
+    "slug": "create-stuff-additions",
+    "filename": "create-stuff-additions.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8240/827/create-stuff-additions.jar"
+  },
+  {
+    "fileID": 8100852,
+    "slug": "skin-layers-3d",
+    "filename": "skin-layers-3d.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8100/852/skin-layers-3d.jar"
+  },
+  {
+    "fileID": 7857567,
+    "slug": "boatload",
+    "filename": "boatload.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7857/567/boatload.jar"
+  },
+  {
+    "fileID": 7118750,
+    "slug": "visual-workbench",
+    "filename": "visual-workbench.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7118/750/visual-workbench.jar"
+  },
+  {
+    "fileID": 6798196,
+    "slug": "ftb-quests-forge",
+    "filename": "ftb-quests-forge.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6798/196/ftb-quests-forge.jar"
+  },
+  {
+    "fileID": 8216578,
+    "slug": "create-confectionery",
+    "filename": "create-confectionery.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8216/578/create-confectionery.jar"
+  },
+  {
+    "fileID": 8063074,
+    "slug": "integrated-villages",
+    "filename": "integrated-villages.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8063/074/integrated-villages.jar"
+  },
+  {
+    "fileID": 8161672,
+    "slug": "terrablender-neoforge",
+    "filename": "terrablender-neoforge.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8161/672/terrablender-neoforge.jar"
+  },
+  {
+    "fileID": 6054947,
+    "slug": "stay-true",
+    "filename": "stay-true.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6054/947/stay-true.jar"
+  },
+  {
+    "fileID": 5493450,
+    "slug": "tradeworks",
+    "filename": "tradeworks.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5493/450/tradeworks.jar"
+  },
+  {
+    "fileID": 8004324,
+    "slug": "create-mechanical-confection",
+    "filename": "create-mechanical-confection.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8004/324/create-mechanical-confection.jar"
+  },
+  {
+    "fileID": 6519954,
+    "slug": "create-metalwork",
+    "filename": "create-metalwork.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6519/954/create-metalwork.jar"
+  },
+  {
+    "fileID": 7287996,
+    "slug": "just-enough-resources-jer",
+    "filename": "just-enough-resources-jer.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7287/996/just-enough-resources-jer.jar"
+  },
+  {
+    "fileID": 6506298,
+    "slug": "create-bits-n-bobs",
+    "filename": "create-bits-n-bobs.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6506/298/create-bits-n-bobs.jar"
+  },
+  {
+    "fileID": 7591460,
+    "slug": "all-of-create-data",
+    "filename": "all-of-create-data.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7591/460/all-of-create-data.jar"
+  },
+  {
+    "fileID": 8026733,
+    "slug": "create-vibrant-vaults-zh-hk-translation",
+    "filename": "create-vibrant-vaults-zh-hk-translation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8026/733/create-vibrant-vaults-zh-hk-translation.jar"
+  },
+  {
+    "fileID": 7588950,
+    "slug": "architectury-api",
+    "filename": "architectury-api.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7588/950/architectury-api.jar"
+  },
+  {
+    "fileID": 5786327,
+    "slug": "create-winery",
+    "filename": "create-winery.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5786/327/create-winery.jar"
+  },
+  {
+    "fileID": 7831305,
+    "slug": "konkrete",
+    "filename": "konkrete.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7831/305/konkrete.jar"
+  },
+  {
+    "fileID": 5453385,
+    "slug": "client-crafting",
+    "filename": "client-crafting.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5453/385/client-crafting.jar"
+  },
+  {
+    "fileID": 7920161,
+    "slug": "packet-fixer",
+    "filename": "packet-fixer.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7920/161/packet-fixer.jar"
+  },
+  {
+    "fileID": 7221528,
+    "slug": "create-mob-spawners",
+    "filename": "create-mob-spawners.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7221/528/create-mob-spawners.jar"
+  },
+  {
+    "fileID": 7342352,
+    "slug": "reeses-sodium-options",
+    "filename": "reeses-sodium-options.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7342/352/reeses-sodium-options.jar"
+  },
+  {
+    "fileID": 6091021,
+    "slug": "crash-assistant",
+    "filename": "crash-assistant.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6091/021/crash-assistant.jar"
+  },
+  {
+    "fileID": 8049672,
+    "slug": "smarter-farmers-farmers-replant",
+    "filename": "smarter-farmers-farmers-replant.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8049/672/smarter-farmers-farmers-replant.jar"
+  },
+  {
+    "fileID": 7120722,
+    "slug": "gui-retextures",
+    "filename": "gui-retextures.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7120/722/gui-retextures.jar"
+  },
+  {
+    "fileID": 5287023,
+    "slug": "create-blaze-burner-fuels",
+    "filename": "create-blaze-burner-fuels.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5287/023/create-blaze-burner-fuels.jar"
+  },
+  {
+    "fileID": 7444038,
+    "slug": "create-ui",
+    "filename": "create-ui.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7444/038/create-ui.jar"
+  },
+  {
+    "fileID": 6475177,
+    "slug": "cupboard",
+    "filename": "cupboard.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6475/177/cupboard.jar"
+  },
+  {
+    "fileID": 8217735,
+    "slug": "toast-control",
+    "filename": "toast-control.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8217/735/toast-control.jar"
+  },
+  {
+    "fileID": 6751464,
+    "slug": "create-dragons-plus",
+    "filename": "create-dragons-plus.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6751/464/create-dragons-plus.jar"
+  },
+  {
+    "fileID": 8219463,
+    "slug": "create-transmission-zh-hk-translation",
+    "filename": "create-transmission-zh-hk-translation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8219/463/create-transmission-zh-hk-translation.jar"
+  },
+  {
+    "fileID": 7596654,
+    "slug": "paxi-neoforge",
+    "filename": "paxi-neoforge.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7596/654/paxi-neoforge.jar"
+  },
+  {
+    "fileID": 6485740,
+    "slug": "blueprint",
+    "filename": "blueprint.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6485/740/blueprint.jar"
+  },
+  {
+    "fileID": 8048607,
+    "slug": "create-escalated",
+    "filename": "create-escalated.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8048/607/create-escalated.jar"
+  },
+  {
+    "fileID": 8174720,
+    "slug": "dragonlib",
+    "filename": "dragonlib.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8174/720/dragonlib.jar"
+  },
+  {
+    "fileID": 8176502,
+    "slug": "configurable",
+    "filename": "configurable.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8176/502/configurable.jar"
+  },
+  {
+    "fileID": 8011507,
+    "slug": "chunk-sending-forge-fabric",
+    "filename": "chunk-sending-forge-fabric.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8011/507/chunk-sending-forge-fabric.jar"
+  },
+  {
+    "fileID": 7926632,
+    "slug": "structure-essentials-forge-fabric",
+    "filename": "structure-essentials-forge-fabric.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7926/632/structure-essentials-forge-fabric.jar"
+  },
+  {
+    "fileID": 7962596,
+    "slug": "just-enough-professions-jep",
+    "filename": "just-enough-professions-jep.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7962/596/just-enough-professions-jep.jar"
+  },
+  {
+    "fileID": 7966681,
+    "slug": "create",
+    "filename": "create.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7966/681/create.jar"
+  },
+  {
+    "fileID": 7963363,
+    "slug": "supplementaries",
+    "filename": "supplementaries.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7963/363/supplementaries.jar"
+  },
+  {
+    "fileID": 8194573,
+    "slug": "iceberg",
+    "filename": "iceberg.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8194/573/iceberg.jar"
+  },
+  {
+    "fileID": 6423863,
+    "slug": "yungs-api-neoforge",
+    "filename": "yungs-api-neoforge.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6423/863/yungs-api-neoforge.jar"
+  },
+  {
+    "fileID": 6715463,
+    "slug": "selene",
+    "filename": "selene.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6715/463/selene.jar"
+  },
+  {
+    "fileID": 8215787,
+    "slug": "slice-and-dice",
+    "filename": "slice-and-dice.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8215/787/slice-and-dice.jar"
+  },
+  {
+    "fileID": 7738176,
+    "slug": "create-misc-and-things",
+    "filename": "create-misc-and-things.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7738/176/create-misc-and-things.jar"
+  },
+  {
+    "fileID": 8169164,
+    "slug": "lmft",
+    "filename": "lmft.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8169/164/lmft.jar"
+  },
+  {
+    "fileID": 7084444,
+    "slug": "create-trading-floor-zh-hk-translation",
+    "filename": "create-trading-floor-zh-hk-translation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7084/444/create-trading-floor-zh-hk-translation.jar"
+  },
+  {
+    "fileID": 7596607,
+    "slug": "create-ornithopter-glider",
+    "filename": "create-ornithopter-glider.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7596/607/create-ornithopter-glider.jar"
+  },
+  {
+    "fileID": 8192296,
+    "slug": "create-immersive-aircrafts-data-pack",
+    "filename": "create-immersive-aircrafts-data-pack.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8192/296/create-immersive-aircrafts-data-pack.jar"
+  },
+  {
+    "fileID": 7568078,
+    "slug": "alltheleaks",
+    "filename": "alltheleaks.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7568/078/alltheleaks.jar"
+  },
+  {
+    "fileID": 8090653,
+    "slug": "create-advancement-plagues",
+    "filename": "create-advancement-plagues.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8090/653/create-advancement-plagues.jar"
+  },
+  {
+    "fileID": 5198465,
+    "slug": "coroutil",
+    "filename": "coroutil.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5198/465/coroutil.jar"
+  },
+  {
+    "fileID": 7796187,
+    "slug": "resourceful-lib",
+    "filename": "resourceful-lib.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7796/187/resourceful-lib.jar"
+  },
+  {
+    "fileID": 5973188,
+    "slug": "dynamiclights-reforged",
+    "filename": "dynamiclights-reforged.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5973/188/dynamiclights-reforged.jar"
+  },
+  {
+    "fileID": 6044477,
+    "slug": "mouse-tweaks",
+    "filename": "mouse-tweaks.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6044/477/mouse-tweaks.jar"
+  },
+  {
+    "fileID": 5637846,
+    "slug": "create-factory",
+    "filename": "create-factory.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5637/846/create-factory.jar"
+  },
+  {
+    "fileID": 8093525,
+    "slug": "create-touch-ups",
+    "filename": "create-touch-ups.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8093/525/create-touch-ups.jar"
+  },
+  {
+    "fileID": 6292148,
+    "slug": "create-dreams-desires",
+    "filename": "create-dreams-desires.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6292/148/create-dreams-desires.jar"
+  },
+  {
+    "fileID": 8037481,
+    "slug": "boatload-zh-hk-translation",
+    "filename": "boatload-zh-hk-translation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8037/481/boatload-zh-hk-translation.jar"
+  },
+  {
+    "fileID": 7586163,
+    "slug": "create-stuff-n-additions-zh-hk-translation",
+    "filename": "create-stuff-n-additions-zh-hk-translation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7586/163/create-stuff-n-additions-zh-hk-translation.jar"
+  },
+  {
+    "fileID": 7589028,
+    "slug": "bisecthosting-server-integration-menu-neoforge",
+    "filename": "bisecthosting-server-integration-menu-neoforge.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7589/028/bisecthosting-server-integration-menu-neoforge.jar"
+  },
+  {
+    "fileID": 7205496,
+    "slug": "create-pattern-schematics-zh-hk-translation",
+    "filename": "create-pattern-schematics-zh-hk-translation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7205/496/create-pattern-schematics-zh-hk-translation.jar"
+  },
+  {
+    "fileID": 5677450,
+    "slug": "create-pattern-schematics",
+    "filename": "create-pattern-schematics.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5677/450/create-pattern-schematics.jar"
+  },
+  {
+    "fileID": 7155413,
+    "slug": "createaddition",
+    "filename": "createaddition.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7155/413/createaddition.jar"
+  },
+  {
+    "fileID": 8188476,
+    "slug": "create-deep-dark",
+    "filename": "create-deep-dark.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8188/476/create-deep-dark.jar"
+  },
+  {
+    "fileID": 7624342,
+    "slug": "fix-gpu-memory-leak",
+    "filename": "fix-gpu-memory-leak.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7624/342/fix-gpu-memory-leak.jar"
+  },
+  {
+    "fileID": 5513549,
+    "slug": "recipe-essentials-forge-fabric",
+    "filename": "recipe-essentials-forge-fabric.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5513/549/recipe-essentials-forge-fabric.jar"
+  },
+  {
+    "fileID": 6165711,
+    "slug": "create-more-package-couriers",
+    "filename": "create-more-package-couriers.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6165/711/create-more-package-couriers.jar"
+  },
+  {
+    "fileID": 8127223,
+    "slug": "create-enchantment-industry",
+    "filename": "create-enchantment-industry.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8127/223/create-enchantment-industry.jar"
+  },
+  {
+    "fileID": 8204326,
+    "slug": "sodium-options-api",
+    "filename": "sodium-options-api.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8204/326/sodium-options-api.jar"
+  },
+  {
+    "fileID": 6100815,
+    "slug": "create-rubberworks-compat",
+    "filename": "create-rubberworks-compat.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6100/815/create-rubberworks-compat.jar"
+  },
+  {
+    "fileID": 8175549,
+    "slug": "neruina",
+    "filename": "neruina.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8175/549/neruina.jar"
+  },
+  {
+    "fileID": 8200354,
+    "slug": "create-mobile-packages",
+    "filename": "create-mobile-packages.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8200/354/create-mobile-packages.jar"
+  },
+  {
+    "fileID": 8059964,
+    "slug": "simple-discord-rpc",
+    "filename": "simple-discord-rpc.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8059/964/simple-discord-rpc.jar"
+  },
+  {
+    "fileID": 8119384,
+    "slug": "power-grid",
+    "filename": "power-grid.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8119/384/power-grid.jar"
+  },
+  {
+    "fileID": 7999916,
+    "slug": "createaddonsfix",
+    "filename": "createaddonsfix.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7999/916/createaddonsfix.jar"
+  },
+  {
+    "fileID": 5707673,
+    "slug": "jade",
+    "filename": "jade.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5707/673/jade.jar"
+  },
+  {
+    "fileID": 7545219,
+    "slug": "create-framed",
+    "filename": "create-framed.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7545/219/create-framed.jar"
+  },
+  {
+    "fileID": 7698798,
+    "slug": "idas-unofficialzhhktranslation",
+    "filename": "idas-unofficialzhhktranslation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7698/798/idas-unofficialzhhktranslation.jar"
+  },
+  {
+    "fileID": 5136804,
+    "slug": "copycats",
+    "filename": "copycats.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5136/804/copycats.jar"
+  },
+  {
+    "fileID": 7251823,
+    "slug": "handcraftedunofficialzhhktranslation",
+    "filename": "handcraftedunofficialzhhktranslation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7251/823/handcraftedunofficialzhhktranslation.jar"
+  },
+  {
+    "fileID": 5113190,
+    "slug": "backpacked",
+    "filename": "backpacked.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5113/190/backpacked.jar"
+  },
+  {
+    "fileID": 7866688,
+    "slug": "sodium-leaf-culling",
+    "filename": "sodium-leaf-culling.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7866/688/sodium-leaf-culling.jar"
+  },
+  {
+    "fileID": 6394121,
+    "slug": "gallery",
+    "filename": "gallery.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6394/121/gallery.jar"
+  },
+  {
+    "fileID": 8159692,
+    "slug": "lithium",
+    "filename": "lithium.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8159/692/lithium.jar"
+  },
+  {
+    "fileID": 7740400,
+    "slug": "create-copper-splashing",
+    "filename": "create-copper-splashing.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7740/400/create-copper-splashing.jar"
+  },
+  {
+    "fileID": 7370476,
+    "slug": "create-train-parts-zh-hk-translation",
+    "filename": "create-train-parts-zh-hk-translation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7370/476/create-train-parts-zh-hk-translation.jar"
+  },
+  {
+    "fileID": 8123288,
+    "slug": "chunk-activity-tracker",
+    "filename": "chunk-activity-tracker.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8123/288/chunk-activity-tracker.jar"
+  },
+  {
+    "fileID": 7596646,
+    "slug": "entity-model-features",
+    "filename": "entity-model-features.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7596/646/entity-model-features.jar"
+  },
+  {
+    "fileID": 6164360,
+    "slug": "lithostitched",
+    "filename": "lithostitched.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6164/360/lithostitched.jar"
+  },
+  {
+    "fileID": 8063559,
+    "slug": "reliable-recipes",
+    "filename": "reliable-recipes.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8063/559/reliable-recipes.jar"
+  },
+  {
+    "fileID": 8158004,
+    "slug": "leaky",
+    "filename": "leaky.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8158/004/leaky.jar"
+  },
+  {
+    "fileID": 8157928,
+    "slug": "create-prismatic-shine",
+    "filename": "create-prismatic-shine.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8157/928/create-prismatic-shine.jar"
+  },
+  {
+    "fileID": 7392199,
+    "slug": "quark",
+    "filename": "quark.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7392/199/quark.jar"
+  },
+  {
+    "fileID": 8050591,
+    "slug": "jei",
+    "filename": "jei.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8050/591/jei.jar"
+  },
+  {
+    "fileID": 8146177,
+    "slug": "despawn-tweaks",
+    "filename": "despawn-tweaks.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8146/177/despawn-tweaks.jar"
+  },
+  {
+    "fileID": 7391682,
+    "slug": "aoc-core",
+    "filename": "aoc-core.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7391/682/aoc-core.jar"
+  },
+  {
+    "fileID": 6145369,
+    "slug": "zeta",
+    "filename": "zeta.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6145/369/zeta.jar"
+  },
+  {
+    "fileID": 8210441,
+    "slug": "create-mechanical-botany",
+    "filename": "create-mechanical-botany.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8210/441/create-mechanical-botany.jar"
+  },
+  {
+    "fileID": 7980010,
+    "slug": "create-trading-floor",
+    "filename": "create-trading-floor.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7980/010/create-trading-floor.jar"
+  },
+  {
+    "fileID": 8106211,
+    "slug": "what-are-they-up-to",
+    "filename": "what-are-they-up-to.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8106/211/what-are-they-up-to.jar"
+  },
+  {
+    "fileID": 7625579,
+    "slug": "txnilib",
+    "filename": "txnilib.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7625/579/txnilib.jar"
+  },
+  {
+    "fileID": 6418577,
+    "slug": "reliable-remover",
+    "filename": "reliable-remover.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6418/577/reliable-remover.jar"
+  },
+  {
+    "fileID": 6533725,
+    "slug": "create-more-package-couriers-zh-hk-translation",
+    "filename": "create-more-package-couriers-zh-hk-translation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6533/725/create-more-package-couriers-zh-hk-translation.jar"
+  },
+  {
+    "fileID": 8234282,
+    "slug": "fancymenu",
+    "filename": "fancymenu.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8234/282/fancymenu.jar"
+  },
+  {
+    "fileID": 7596639,
+    "slug": "open-parties-and-claims",
+    "filename": "open-parties-and-claims.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7596/639/open-parties-and-claims.jar"
+  },
+  {
+    "fileID": 8089432,
+    "slug": "create-stone-generators",
+    "filename": "create-stone-generators.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8089/432/create-stone-generators.jar"
+  },
+  {
+    "fileID": 8230815,
+    "slug": "bad-wither-no-cookie-reloaded",
+    "filename": "bad-wither-no-cookie-reloaded.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8230/815/bad-wither-no-cookie-reloaded.jar"
+  },
+  {
+    "fileID": 7088011,
+    "slug": "create-connected",
+    "filename": "create-connected.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7088/011/create-connected.jar"
+  },
+  {
+    "fileID": 8135209,
+    "slug": "caelus",
+    "filename": "caelus.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8135/209/caelus.jar"
+  },
+  {
+    "fileID": 8221350,
+    "slug": "ftb-xmod-compat",
+    "filename": "ftb-xmod-compat.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8221/350/ftb-xmod-compat.jar"
+  },
+  {
+    "fileID": 5694215,
+    "slug": "placebo",
+    "filename": "placebo.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5694/215/placebo.jar"
+  },
+  {
+    "fileID": 7715134,
+    "slug": "pick-up-notifier",
+    "filename": "pick-up-notifier.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7715/134/pick-up-notifier.jar"
+  },
+  {
+    "fileID": 6926281,
+    "slug": "epherolib",
+    "filename": "epherolib.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6926/281/epherolib.jar"
+  },
+  {
+    "fileID": 6409785,
+    "slug": "create-stock-market",
+    "filename": "create-stock-market.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6409/785/create-stock-market.jar"
+  },
+  {
+    "fileID": 5872111,
+    "slug": "biome-music",
+    "filename": "biome-music.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5872/111/biome-music.jar"
+  },
+  {
+    "fileID": 8199283,
+    "slug": "create-fast-schematiccannon",
+    "filename": "create-fast-schematiccannon.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8199/283/create-fast-schematiccannon.jar"
+  },
+  {
+    "fileID": 6457331,
+    "slug": "balm",
+    "filename": "balm.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6457/331/balm.jar"
+  },
+  {
+    "fileID": 7666279,
+    "slug": "redirected",
+    "filename": "redirected.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7666/279/redirected.jar"
+  },
+  {
+    "fileID": 7420963,
+    "slug": "create-sound-of-steam",
+    "filename": "create-sound-of-steam.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7420/963/create-sound-of-steam.jar"
+  },
+  {
+    "fileID": 6148845,
+    "slug": "create-aquatic-ambitions",
+    "filename": "create-aquatic-ambitions.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6148/845/create-aquatic-ambitions.jar"
+  },
+  {
+    "fileID": 7315860,
+    "slug": "kotlin-for-forge",
+    "filename": "kotlin-for-forge.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7315/860/kotlin-for-forge.jar"
+  },
+  {
+    "fileID": 7192082,
+    "slug": "all-of-create-core",
+    "filename": "all-of-create-core.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7192/082/all-of-create-core.jar"
+  },
+  {
+    "fileID": 7471280,
+    "slug": "extra-create-recipe",
+    "filename": "extra-create-recipe.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7471/280/extra-create-recipe.jar"
+  },
+  {
+    "fileID": 5136274,
+    "slug": "ferritecore",
+    "filename": "ferritecore.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5136/274/ferritecore.jar"
+  },
+  {
+    "fileID": 7370449,
+    "slug": "alternate-current",
+    "filename": "alternate-current.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7370/449/alternate-current.jar"
+  },
+  {
+    "fileID": 7524151,
+    "slug": "clumps",
+    "filename": "clumps.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7524/151/clumps.jar"
+  },
+  {
+    "fileID": 5665477,
+    "slug": "xaeros-minimap",
+    "filename": "xaeros-minimap.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5665/477/xaeros-minimap.jar"
+  },
+  {
+    "fileID": 5623731,
+    "slug": "create-chocolate-fountain",
+    "filename": "create-chocolate-fountain.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5623/731/create-chocolate-fountain.jar"
+  },
+  {
+    "fileID": 8231212,
+    "slug": "bookshelf",
+    "filename": "bookshelf.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8231/212/bookshelf.jar"
+  },
+  {
+    "fileID": 7651561,
+    "slug": "framework",
+    "filename": "framework.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7651/561/framework.jar"
+  },
+  {
+    "fileID": 7606240,
+    "slug": "loot-integrations",
+    "filename": "loot-integrations.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7606/240/loot-integrations.jar"
+  },
+  {
+    "fileID": 7530361,
+    "slug": "resource-pack-overrides",
+    "filename": "resource-pack-overrides.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7530/361/resource-pack-overrides.jar"
+  },
+  {
+    "fileID": 6640970,
+    "slug": "magnesium-extras",
+    "filename": "magnesium-extras.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6640/970/magnesium-extras.jar"
+  },
+  {
+    "fileID": 5733968,
+    "slug": "searchables",
+    "filename": "searchables.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5733/968/searchables.jar"
+  },
+  {
+    "fileID": 6394141,
+    "slug": "xaeros-world-map",
+    "filename": "xaeros-world-map.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6394/141/xaeros-world-map.jar"
+  },
+  {
+    "fileID": 5831692,
+    "slug": "entity-texture-features-fabric",
+    "filename": "entity-texture-features-fabric.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5831/692/entity-texture-features-fabric.jar"
+  },
+  {
+    "fileID": 8231071,
+    "slug": "createtweakedcontrollerunofficialzhhk",
+    "filename": "createtweakedcontrollerunofficialzhhk.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8231/071/createtweakedcontrollerunofficialzhhk.jar"
+  },
+  {
+    "fileID": 7930620,
+    "slug": "some-assembly-required",
+    "filename": "some-assembly-required.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7930/620/some-assembly-required.jar"
+  },
+  {
+    "fileID": 5113181,
+    "slug": "cloth-config",
+    "filename": "cloth-config.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5113/181/cloth-config.jar"
+  },
+  {
+    "fileID": 7701961,
+    "slug": "not-enough-animations",
+    "filename": "not-enough-animations.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7701/961/not-enough-animations.jar"
+  },
+  {
+    "fileID": 5729127,
+    "slug": "create-blaze-burner-fuels-zh-hk-translation",
+    "filename": "create-blaze-burner-fuels-zh-hk-translation.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/5729/127/create-blaze-burner-fuels-zh-hk-translation.jar"
+  },
+  {
+    "fileID": 8063412,
+    "slug": "create-vibrant-vaults",
+    "filename": "create-vibrant-vaults.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8063/412/create-vibrant-vaults.jar"
+  },
+  {
+    "fileID": 7596623,
+    "slug": "modernfix",
+    "filename": "modernfix.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/7596/623/modernfix.jar"
+  },
+  {
+    "fileID": 6463890,
+    "slug": "immersive-aircraft",
+    "filename": "immersive-aircraft.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/6463/890/immersive-aircraft.jar"
+  },
+  {
+    "fileID": 8224323,
+    "slug": "create-food",
+    "filename": "create-food.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8224/323/create-food.jar"
+  },
+  {
+    "fileID": 8158291,
+    "slug": "mod-8158291",
+    "filename": "mod-8158291.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8158/291/mod-8158291.jar"
+  },
+  {
+    "fileID": 8177587,
+    "slug": "mod-8177587",
+    "filename": "mod-8177587.jar",
+    "downloadUrl": "https://edge.forgecdn.net/files/8177/587/mod-8177587.jar"
+  }
+]
